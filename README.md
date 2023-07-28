@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lil-floppa
-- 👀 I’m interested in python,parsing,html,css,java script
+- 👀 I’m interested in python,parsing,html,css,JavaScript
 - 🌱 I’m currently learning html css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
